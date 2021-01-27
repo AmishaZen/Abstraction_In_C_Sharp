@@ -4,9 +4,7 @@ See how Abstraction and inheritance works by the example of geometry Shape.
 ## Problem Statement of Geometry shape 
 
 # Part 1:
-
-# Create an abstract class Quadrilateral which has a data member length & abstract method area.
-
+    #Create an abstract class Quadrilateral which has a data member length & abstract method area.
     # Create two derived classes Square and Rectangle. 
     # Square class shall have no data member. Give implementation of area method.
     # Rectangle class shall have data member called Breadth. Give implementation of area method.
